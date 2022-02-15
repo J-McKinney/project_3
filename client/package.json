@@ -6,7 +6,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "bootstrap": "4.3.1",
-    "chart.js": "2.9.2",
+    "chart.js": "2.9.4",
     "firebase": "^7.2.3",
     "history": "4.10.1",
     "node-sass": "^4.12.0",
